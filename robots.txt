@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://venthaulzi.github.io/deLemusTest/sitemap.xml
+Sitemap: https://vtz.github.io/deLemusTest/sitemap.xml
